@@ -1,6 +1,4 @@
-To run the code login to the google account with the following credentials. 
-			ID : colabprosgan
-			Password : sgan1012
+#StackGAN.
 
 Stage1.ipynb - stage 1 stack gan file. Run all the cells.
 Stage1_to_stage2.ipynb - stage 2 stack gan file. 
